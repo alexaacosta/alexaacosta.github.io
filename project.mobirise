@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "adobephotoshop.html",
+    "currentPage": "page18.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -4909,8 +4909,8 @@
           "_name": "header3",
           "_anchor": "header3-37",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgColor": "#0b0b0b",
             "showMeta": true
           },
@@ -4924,8 +4924,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "3",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "images": [
               {
                 "tags": "Awesome",
@@ -5898,7 +5898,7 @@
           "_anchor": "msg-box8-4s",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1324.jpg",
@@ -5932,9 +5932,9 @@
           },
           "_anchor": "msg-box4-4t",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "imageSize": "50",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -5992,8 +5992,8 @@
           "_anchor": "msg-box4-4u",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
