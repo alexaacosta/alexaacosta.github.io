@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page18.html",
+    "currentPage": "Adobe Illustrator .html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -344,7 +344,7 @@
           "_anchor": "msg-box8-3o",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1324.jpg",
@@ -354,7 +354,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": "0.6",
             "overlayColor": "#ec691a",
             "showTitle": true,
@@ -402,8 +402,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/horse-2000x2960-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/horse-2000x2960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/horse-2000x2960-800x1184.png",
+                "image": "@PROJECT_PATH@/assets/images/horse-2000x2960.png",
                 "caption": "MAVERICK DESIGN",
                 "active": false
               },
@@ -412,8 +412,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/miami-2000x2960-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/miami-2000x2960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/miami-2000x2960-800x1184.png",
+                "image": "@PROJECT_PATH@/assets/images/miami-2000x2960.png",
                 "caption": "MDCPS LOGO",
                 "active": false
               },
@@ -422,8 +422,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/flower-2000x2960-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/flower-2000x2960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flower-2000x2960-800x1184.png",
+                "image": "@PROJECT_PATH@/assets/images/flower-2000x2960.png",
                 "caption": "LOTUS FLOWER TATTOO",
                 "active": false
               },
@@ -432,8 +432,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tv-2000x2960-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tv-2000x2960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tv-2000x2960-800x1184.png",
+                "image": "@PROJECT_PATH@/assets/images/tv-2000x2960.png",
                 "caption": "VINTAGE TELEVISION",
                 "active": false
               },
@@ -442,8 +442,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kayak-2000x2960-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/kayak-2000x2960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kayak-2000x2960-800x1184.png",
+                "image": "@PROJECT_PATH@/assets/images/kayak-2000x2960.png",
                 "caption": "KAYAK ENGINE BLUE PRINT",
                 "active": false
               },
@@ -452,8 +452,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/postcard-2000x2960-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/postcard-2000x2960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/postcard-2000x2960-800x1184.png",
+                "image": "@PROJECT_PATH@/assets/images/postcard-2000x2960.png",
                 "caption": "POSTCARD",
                 "active": false
               },
@@ -462,8 +462,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dreams-2000x2960-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dreams-2000x2960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/eyes-2000x2960-800x1184.png",
+                "image": "@PROJECT_PATH@/assets/images/eyes-2000x2960.png",
                 "caption": "DREAMS POSTER",
                 "active": false
               },
@@ -472,26 +472,26 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/google-doodle-1-2000x744-800x297.jpg",
-                "image": "@PROJECT_PATH@/assets/images/google-doodle-1-2000x744.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/google-2000x827-800x330.png",
+                "image": "@PROJECT_PATH@/assets/images/google-2000x827.png",
                 "caption": "GOOGLE BANNER",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/alexa-acosta-mas-banner-800x232-88.png",
-                "image": "@PROJECT_PATH@/assets/images/alexa-acosta-mas-banner.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/alexa-acosta-mas-banner-1-800x232.png",
+                "image": "@PROJECT_PATH@/assets/images/alexa-acosta-mas-banner-1.gif",
                 "caption": "BANNER",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "2",
-            "showText": true,
+            "showText": false,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#ffffff",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
