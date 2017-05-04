@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Adobe Illustrator .html",
+    "currentPage": "page18.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -4402,7 +4402,7 @@
           },
           "title2": "PHOTOGRAPHER",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "During the end of highschool and early college, Photography is something I am looking into and would like to pursue in the future. Photography and Graphic Design is something that could work hand in hand. <br><a href=\"photography.html\">See Sample Work</a>",
+          "caption2": "During the end of highschool and early college, Photography is something I am looking into and would like to pursue in the future. Photography and Graphic Design is something that could work hand in hand. <br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">PHOTOGRAPHY</a>",
           "media3": {
             "iconFont": {
@@ -4436,7 +4436,7 @@
           },
           "title4": "MAKEUP ARTIST<br>",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "As a Highschool Student and the start of college I would like to do makeup as a side job for parties, weddings, and events. Also digital art and photo retouching models to fix makeup or to design a look for the model digitally. &nbsp;<i><a href=\"Personal Makeup .html\">See Sample Work</a></i>",
+          "caption4": "As a Highschool Student and the start of college I would like to do makeup as a side job for parties, weddings, and events. Also digital art and photo retouching models to fix makeup or to design a look for the model digitally. &nbsp;",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MAKEUP SAMPLES</a>",
           "media5": {
             "iconFont": {
@@ -5959,7 +5959,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=2C1PKwnUQxs",
+              "src": "https://www.youtube.com/watch?v=wmwvQZPkQ_I",
               "aspectratio": "4:3",
               "autoplay": false,
               "loop": false
@@ -5976,7 +5976,7 @@
           },
           "title": "A THOUSAND MILLION REASONS",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.youtube.com/watch?v=2C1PKwnUQxs\" data-toolbar=\"-mbrBtnMove\">LINK TO YOUTUBE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.youtube.com/watch?v=wmwvQZPkQ_I\" data-toolbar=\"-mbrBtnMove\">LINK TO YOUTUBE</a>"
         },
         {
           "_inherit": "msg-box5",
