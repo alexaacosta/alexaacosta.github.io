@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Premiere.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -6854,7 +6854,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/F3Muvs2wZ-U",
+              "src": "https://www.youtube.com/watch?v=K0O_jAeqruY&feature=youtu.be",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": "on"
